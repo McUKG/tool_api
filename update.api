@@ -1,1 +1,19 @@
-{"version" : "1", "url" : "https://m.me/leeleelarlar.komaykoloe", "info" : "Severပြင်နေတယ်"}
+{
+
+  "Visibility": "VISIBLE",
+
+  "Title": "Test",
+
+  "Description": "Test Message",
+
+  "MainTextButton": "Update",
+
+  "Cancelable": "true",
+
+  "CancelButtonText": "Cancel",
+
+  "DownloadLink": "www.example.com",
+
+  "Version": "1.1"
+
+}
